@@ -19,10 +19,10 @@ We can see the power of BERT, with very few lines of code (though with a relativ
 
 Ideas to improve accuracy, without touching the base model:
 
--[ ] Feature engineering
+- [ ]  Feature engineering
 
--[ ] Data cleaning 
+- [ ] Data cleaning 
 
--[ ] Change max lenght and batch size (must respect Max lenght * Batch Size < 3000 to not have OOM issues)
+- [ ] Change max lenght and batch size (must respect Max lenght * Batch Size < 3000 to not have OOM issues)
 
--[ ] Try to avoid over-fitting
+- [ ] Try to avoid over-fitting
